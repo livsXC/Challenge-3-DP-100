@@ -39,3 +39,8 @@ A proposta é usar técnicas de regressão preditiva para auxiliar no planejamen
 ├── mlruns/                # Experimentos registrados com MLflow
 ├── README.md              # Documentação do projeto
 ├── requirements.txt       # Dependências do projeto
+```
+---
+
+📌 Insights
+Durante o desenvolvimento, ficou evidente a forte correlação entre temperatura e vendas de sorvete, o que valida o uso de regressão linear simples. O MLflow se mostrou uma ferramenta essencial para rastrear diferentes versões do modelo de forma organizada. Esse tipo de solução pode ser ampliado com variáveis como dia da semana, eventos locais ou previsão do tempo futura para tornar a previsão ainda mais precisa.
